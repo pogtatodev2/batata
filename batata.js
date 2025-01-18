@@ -1,5 +1,7 @@
 function batata() {
-  console.log("el batata ehehehahahah el gringi bringei ahehhe el batat hehah");
+  console.log("el bartata bashashahha ahehhee b fasssssst boueeee hehahahahaheh");
+  console.log("et aussi regarde 1+1", 1+1)
+
 }
 
-module.exports = batata
+module.exports = 'batata'
